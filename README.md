@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Denilson Makotsi](https://github.com/Denilson1999/hello-world-1)
-- Add your clickable username here. It should point to your GitHub account.
+- [Denilson Makotsi](https://github.com/Denilson1999)
 
 ## Project setup instructions
 To start using this project use the following commands:
